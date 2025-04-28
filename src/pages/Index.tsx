@@ -294,7 +294,7 @@ const Index = () => {
         <div className="container mx-auto px-4">
           <div className="flex flex-col md:flex-row justify-between items-center gap-4">
             <p className="text-sm text-center md:text-left whitespace-nowrap">
-              © 2025 Innomatrix LLC.  All rights reserved.
+              © {new Date().getFullYear()} Innomatrix LLC.  All rights reserved.
             </p>
             <p className="text-sm text-center md:text-right whitespace-nowrap">
               Dallas | Boston | Seattle
