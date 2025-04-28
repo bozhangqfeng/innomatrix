@@ -1,0 +1,5 @@
+npm config set proxy http://127.0.0.1:3444
+npm config set https-proxy http://127.0.0.1:3444
+npm install 
+npm run deploy就会部署到gh-pages分支
+npm run dev本地预览
