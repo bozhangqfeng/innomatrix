@@ -84,7 +84,7 @@ const Index = () => {
           <div className="grid md:grid-cols-3 gap-8">
             <FeatureCard
               title="Overview"
-              description="InnoMatrix designs, develops and operates next-generation AI data centers and private high-performance AI Inference infrastructure engineered for artificial intelligence (AI), high-performance computing (HPC) and blockchain applications."
+              description="InnoMatrix empowers organizations with cost-efficient, scalable access to the most advanced GPU compute, including private, high-performance AI inference capabilities that combine the security of on-premise control with cloud-native scalability."
               icon={Globe}
             />
             <FeatureCard
@@ -100,7 +100,7 @@ const Index = () => {
               icon={Server}
             />
             <FeatureCard
-              title="Private Inference"
+              title="GPU Cloud and Private Inference"
               description={
                 <>
                   InnoMatrix empowers organizations with private, high-performance AI inference capabilities that combine the security of on-premise control with cloud-native scalability.<br /><br />
